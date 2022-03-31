@@ -9,4 +9,4 @@ async def on_ready():
   await client.change_presence(status=discord.Status.online, activity=discord.Game("ONLINE"))
 
 keep_alive.keep_alive()
-client.run(os.getenv("OTQwMDc1OTE0MjEyMDMyNTY1.YgCH6w.Iu9Ck2--wEMtZPrNbp3ZNdcRpZM"), bot=False)
+client.run(os.getenv("OTU1MDkxNzk3ODc1NTAzMTQ0.YjcojQ.v2NkWmcxE_T5La1qmg9eMwymGlI"), bot=False)
